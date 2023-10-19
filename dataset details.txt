@@ -1,0 +1,7 @@
+dataset_full (1).csv - 88647 row and 112 columns
+dataset_small (1).csv - 58645 rows and 112 columns
+
+dataset_phishing.csv - 11430 rows and 89 columns
+Phishing_Legitimate_full.csv  - 10000 rows and 50 columns
+
+Dataset1.csv - 2488 and 14 columns
